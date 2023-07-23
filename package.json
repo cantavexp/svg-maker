@@ -2,5 +2,26 @@
   "dependencies": {
     "inquirer": "^8.2.4",
     "jest": "^29.5.0"
-  }
+  },
+  "name": "m10svg",
+  "description": "In the lesson you will be able to \r create a SVG with the choice of the \r  following shapes triangle,circle or square.\r  You will also be able to enter \r  three characters plus add colors for \r  the characters and shape.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cantavexp/svg-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cantavexp/svg-maker/issues"
+  },
+  "homepage": "https://github.com/cantavexp/svg-maker#readme"
 }
